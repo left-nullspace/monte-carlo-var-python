@@ -10,7 +10,7 @@ This application uses Monte Carlo simulations to estimate the Value at Risk (VaR
 - Visualize simulation results with interactive plots.
 
 ## Requirements
-- Python 3.8 or higher
+- Python 3.8 or higher (I used 3.9.17)
 - The required Python packages listed in `requirements.txt`.
 
 ## Usage
