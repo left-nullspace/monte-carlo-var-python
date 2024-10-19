@@ -1,6 +1,4 @@
 # Value at Risk (VaR) Calculator
-
-## Overview
 This application uses Monte Carlo simulations to estimate the Value at Risk (VaR) for a portfolio of stocks. The VaR is a statistical technique used to measure the risk of loss on a specific portfolio. The app allows users to input stock tickers, define portfolio weights, and adjust various simulation settings to calculate potential risks over a selected period.
 
 ## Features
@@ -16,3 +14,4 @@ This application uses Monte Carlo simulations to estimate the Value at Risk (VaR
 ## Usage
 Input the stock tickers, portfolio weights, and simulation parameters in the Streamlit sidebar, then click **Run Simulation** to visualize the risk analysis of your portfolio.
 
+Shoutout to quantpy for the math behind the simulation, ie the cholesky decomposition etc. I adapted code from his youtube video
